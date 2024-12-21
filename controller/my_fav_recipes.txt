@@ -1,0 +1,113 @@
+Recipe Name: Spaghetti Carbonara
+Taste: Savory
+Reviews: 4.5
+Cuisine: Italian
+Preparation Time: 30 minutes
+
+Recipe Name: Chocolate Cake
+Taste: Sweet
+Reviews: 5
+Cuisine: American
+Preparation Time: 45 minutes
+
+Recipe Name: Tofu Stir Fry
+Taste: Savory
+Reviews: 4
+Cuisine: Chinese
+Preparation Time: 25 minutes
+
+Recipe Name: Beef Tacos
+Taste: Spicy
+Reviews: 4.8
+Cuisine: Mexican
+Preparation Time: 20 minutes
+
+Recipe Name: Chicken Alfredo
+Taste: Creamy
+Reviews: 4.7
+Cuisine: Italian
+Preparation Time: 35 minutes
+
+Recipe Name: Veggie Burger
+Taste: Savory
+Reviews: 4.6
+Cuisine: American
+Preparation Time: 25 minutes
+
+Recipe Name: Pad Thai
+Taste: Sweet & Spicy
+Reviews: 4.9
+Cuisine: Thai
+Preparation Time: 30 minutes
+
+Recipe Name: Margherita Pizza
+Taste: Savory
+Reviews: 4.8
+Cuisine: Italian
+Preparation Time: 20 minutes
+
+Recipe Name: Apple Pie
+Taste: Sweet
+Reviews: 5
+Cuisine: American
+Preparation Time: 50 minutes
+
+Recipe Name: Grilled Salmon
+Taste: Savory
+Reviews: 4.6
+Cuisine: Seafood
+Preparation Time: 30 minutes
+
+Recipe Name: Caesar Salad
+Taste: Tangy
+Reviews: 4.3
+Cuisine: American
+Preparation Time: 15 minutes
+
+Recipe Name: Beef Wellington
+Taste: Savory
+Reviews: 5
+Cuisine: British
+Preparation Time: 1 hour 20 minutes
+
+Recipe Name: Egg Fried Rice
+Taste: Savory
+Reviews: 4.4
+Cuisine: Chinese
+Preparation Time: 20 minutes
+
+Recipe Name: Chicken Nuggets
+Taste: Crispy
+Reviews: 4.6
+Cuisine: American
+Preparation Time: 25 minutes
+
+Recipe Name: Shrimp Scampi
+Taste: Garlicky
+Reviews: 4.7
+Cuisine: Italian
+Preparation Time: 30 minutes
+
+Recipe Name: Falafel
+Taste: Savory
+Reviews: 4.5
+Cuisine: Middle Eastern
+Preparation Time: 35 minutes
+
+Recipe Name: Lasagna
+Taste: Savory
+Reviews: 4.9
+Cuisine: Italian
+Preparation Time: 1 hour
+
+Recipe Name: Banana Bread
+Taste: Sweet
+Reviews: 4.8
+Cuisine: American
+Preparation Time: 55 minutes
+
+Recipe Name: Ramen
+Taste: Savory
+Reviews: 4.7
+Cuisine: Japanese
+Preparation Time: 25 minutes
